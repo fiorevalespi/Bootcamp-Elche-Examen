@@ -3,6 +3,8 @@
 #+DATE: \today
 #+EMAIL: maxxcan@gmail.com
 
+Esto es una prueba para ver por que no se suben los cambios
+
 * Ventajas de jquery 
 :PROPERTIES:
 :points: 0   
@@ -410,7 +412,7 @@
 5. Todas son relacionales
 * Cual es el sistema operativo más usado en el mundo
 :PROPERTIES:
-:points:1   
+:points: 1   
 :END:
 
 1. GNU\Linux  {x}
@@ -420,7 +422,7 @@
 5. ReactOS
 * Cual es la principal diferencia entre software libre y open source
 :PROPERTIES:
-:points:1   
+:points: 1   
 :END:
 
 1. El primero es gratuito y el segundo no
